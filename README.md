@@ -1,4 +1,4 @@
-![logo](https://github.com/riyasinghal123/riyasinghal123/blob/main/Blue%20And%20Green%20Professional%20Technology%20LinkedIn%20Banner.png)
+![logo](https://github.com/riyasinghal123/riyasinghal123/blob/main/logo.png)
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <h3 align="center">I am deeply passionate about my skills and am currently focusing on mastering JavaScript and Python to advance my expertise in data science.</h3>
 
